@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @DivineBrightness
-- 👀 I’m interested in coding.
+- Hi, I’m @DivineBrightness
 - 🌱 I’m currently learning how to make more people happy.
 
 <!---
